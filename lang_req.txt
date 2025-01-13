@@ -1,3 +1,7 @@
 torch
 langchain
 langchain-ollama
+langgraph
+langchain-community
+langchainhub
+langchain-core

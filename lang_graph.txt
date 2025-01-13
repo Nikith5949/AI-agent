@@ -1,0 +1,9 @@
+langchain==0.2.12
+langchain-core==0.2.29 
+langgraph==0.2.3 
+langchain-ollama==0.1.1 
+semantic-router==0.0.61 
+pyppeteer==2.0.0 
+nest-asyncio==1.6.0 
+praw==7.7.1
+ipython
